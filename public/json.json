@@ -1,0 +1,173 @@
+[{
+    "id": 1,
+    "autor": "Paula Bailach y Duna Estrada",
+    "titulo": "Euterpe",
+    "srcimg": "https://paulabailach.github.io/Euterpe/img/fons.png",
+    "alt": "La imagen es el fondo del encabezado de nuestra web. Es una imagen de algunos vinilos que se sobreponen entre ellos. La imagen tiene un tono muy similar al azul corporativo de Euterpe.",
+    "texto": "Nuestra web es una tienda online de vinilos, CD y casetes. En ella hemos incluido una breve presentación de la marca, algunos de nuestros productos, información de contacto, un apartado de ofertas, una barra de navegación y enlaces a las páginas de algunos artistas. También hay otros elementos decorativos como un P5JS, un net art y un Intrinsic Web Design.",
+    "url": "https://paulabailach.github.io/Euterpe/"
+},
+{
+    "id": 2,
+    "autor": "Eudald Cardozo Vallhonrat, David Garcia Aybar",
+    "titulo": "FactoSaurio",
+    "srcimg": "https://raw.githubusercontent.com/Eutatsu/FactoSaurio/refs/heads/main/imatges/fons.png",
+    "alt": "Fons decoratiu de la web FactoSaurio, una serralada al capvespre",
+    "texto": "La teva pàgina de referència per a tota la (des)informació sobre dinosaures que puguis necessitar",
+    "url": "https://eutatsu.github.io/FactoSaurio/"
+},
+{
+    "id": 3,
+    "autor": "Valentina Coello y Júlia Calvo",
+    "título": "ArtNetLab",
+    "srcimg": "https://juliz1.github.io/artnetlabf1/img/logo/logogran.png",
+    "alt": "Imagen logo de empresa",
+    "texto": "En esta página explicamos la evolución del arte digital desde su creación hasta hoy. Mostramos los referentesy pioneros de cada etapa y una sección de galería donde indagar en sus obras y crear las tuyas.",
+    "url": "https://juliz1.github.io/artnetlabf1/"
+},
+    {
+    "id": 4,
+    "autor": "Christian Radu Dragan y Lidia Alcalde Manonelles",
+    "titulo": "Odin's Step",
+    "srcimg": "https://raw.githubusercontent.com/Vaperinho/Odin-s-Step/refs/heads/main/img/srcimg.png",
+    "alt": "cartel de zapatilla urbana con tonos naranjas y azules",
+    "texto": "venta de zapatillas urbanas",
+    "url": "https://vaperinho.github.io/Odin-s-Step/"
+},
+{
+    "id": 5,
+    "autor": "Sergi Escarré, Xavier Enseñat",
+    "titulo": "CB ES CASTELL",
+    "srcimg": "https://sergiiiiiiiiii3.github.io/cb-es-castell/fotos/cadet.webp",
+    "alt": "nens jugant a basket",
+    "texto": "Pàgina web del equip de basket CB Es CASTELL",
+    "url": "https://sergiiiiiiiiii3.github.io/cb-es-castell/"
+},
+{
+    "id": 6,
+    "autor": " Gemma Garrido Calaforra, Laura Castillo Biosca",
+    "titulo": "Wolf Wild World",
+    "srcimg": "https://kanemy011.github.io/Wolf-Wild-World/Imagenes/logoLobo.png",
+    "alt": "logo en blanco de la página wolf wild world",
+    "texto": "Página web sobre una empresa inventada de una reserva natural de lobos, en esta los usuarios pueden conocernos, obtener información sobre como funcionamos y contribuir de distintas maneras ayudando al cuidado del parque.",
+    "url": "https://kanemy011.github.io/Wolf-Wild-World/"
+},
+{
+    "id": 7,
+    "autor": "Anaïs Garrofé",
+    "titulo": "Galería de pintura barroca",
+    "srcimg": "https://raw.githubusercontent.com/ikwaru/Barroco/refs/heads/main/foto%20web.png",
+    "alt": "Portada para una web de una galería informativa de la pintura del movimient barroco y sus representantes",
+    "texto": "Galería informativa de la pintura del movimiento barroco y sus representantes",
+    "url": "https://ikwaru.github.io/Barroco/"
+},
+{
+    "id": 8,
+    "autor": "Blau Arbiol Casanovas i Andrea Ginés Abad",
+    "titulo": "Pàgina web d’un Cantant",
+    "srcimg": "https://raw.githubusercontent.com/blauarbiol/WebCantantHarry/a47ccfd760aa25c1bbc652c8dca1ba3bfabd35fc/imatges/harry.jpg",
+    "alt": "Imatge del cantant Harry Styles",
+    "texto": "És una pàgina web basada en el cantant Harry Styles, i s’imagina el seu nou àlbum",
+    "url": "https://blauarbiol.github.io/WebCantantHarry/"
+}, 
+{
+    "id": 9,
+    "autor": "Nico Gómez y Jaume Agulló",
+    "titulo": "Restaurante Borau",
+    "srcimg": "https://raw.githubusercontent.com/Nicogomezbeltran/borau/refs/heads/main/img/fachada.jpg",
+    "alt": "Fachada del restaurante de noche",
+    "texto": "Web dedicada a un restaurante de la localidad de Fraga llamado Borau",
+    "url": "https://nicogomezbeltran.github.io/borau/"
+},
+{
+    "id": 10,
+    "autor": "Yheanyhisbel y Adrià",
+    "titulo": "Meme Archive",
+    "srcimg": "https://raw.githubusercontent.com/AdriaIllaMorales/memearchive/refs/heads/main/media/HeaderDark.jpg",
+    "alt": "Meme Archive imagen",
+    "texto": "¿Sientes nostalgia por los memes de tu infancia? Meme Archive aliviará tus penas, dándote la oportunidad de hacer un viaje al pasado y revivir experiencias enterradas en el back-end de tus recuerdos.",
+    "url": "https://adriaillamorales.github.io/memearchive/"
+},
+{
+    "id": 11,
+    "autor": "Vlada Ivaniv", 
+    "titulo": "Porfolio de Vlada",
+    "srcimg": "https://raw.githubusercontent.com/vladaivaniv/Vlada-s-Porfolio/7a564e8427efa281461a3e94ee3a72bcec5c6547/images/preview.png" ,
+    "alt": "Vista previa de la pàgina",
+    "texto": "Texto que explique en que consiste la web",
+    "url": "https://vladaivaniv.github.io/Vlada-s-Porfolio/"
+},
+{
+    "id": 12,
+    "autor": "Júlia Melsio, Alba Morillo",
+    "titulo": "Transcuquefrut",
+    "srcimg": "https://raw.githubusercontent.com/meelchioo/transcuquefrut/refs/heads/main/img/logoTC.png",
+    "alt": "Logotipo de la empresa Transcuquefrut, la letra 'T' en cursiva y con decorado",
+    "texto": "En aquesta pràctica de Web Dinàmica hem creat una landing page dedicada a l’empresa Transcuquefrut, ja que volem que aquesta pràctica tingués un altre propòsit a part de l’entrega en sí. ",
+    "url": "https://meelchioo.github.io/transcuquefrut/"
+},
+{
+    "id": 13,
+    "autor": "Sergio Ramos Pérez, Nerea Marí Garrido",
+    "titulo": "Zleep",
+    "srcimg": "https://github.com/seergiorms/zleep/blob/main/gato2.png?raw=true",
+    "alt": "Gato durmiendo zleep",
+    "texto": "Zleep es una web de venta de suplementos para dormir, tiene una estética cómoda, simple y relajante.",
+    "url": "https://seergiorms.github.io/zleep/"
+},
+{
+    "id": 14,
+    "autor": "Pau Romero Mencía",
+    "titulo": "Herbolario La Hierbas",
+    "srcimg": "https://github.com/pauromero25/Web/blob/main/CABECERA.png?raw=true",
+    "alt": "La imagen se trata de la cabecera de la web, sobre la que aparece el nombre de la página y donde se aprecian algunos elementos y plantas naturales propios de un herbolario.",
+    "texto": "La web es la plataforma para un herbolario especializado en productos naturales y bienestar. Su objetivo principal es transmitir los valores de naturalidad, bienestar y conexión con la naturaleza, orientando a los visitantes sobre los productos y servicios ofrecidos. Al mismo tiempo, pretende establecer un diseño atractivo, profesional y optimizado para una experiencia de usuario positiva.",
+    "url": "https://pauromero25.github.io/Web/"
+},
+{
+    "id": 15,
+    "autor": "Colau Sabater Alcolecha, Sandra Salvia Bori",
+    "titulo": "Musicrave",
+    "srcimg": "https://sandralol1.github.io/musicrave/img/omega%20portada.jfif",
+    "alt": "Imatge de la portada del nou àlbum on hi apareixen els dos cantants en una muntanya russa. En la foto apareixen els seus noms i el titul amb un efecte difuminat.",
+    "texto": "La pàgina web desenvolupada s'anomena 'Music Crave'. Una pàgina web que tracta les notícies musicals actuals, sobretot a escala internacional i del gènere pop.",
+    "url": "https://sandralol1.github.io/musicrave/"
+},
+{
+    "id": 16,
+    "autor": "Iris Noelia Serrano Rodríguez i Martina López Rubio ",
+    "titulo": "Con amor de Paquita",
+    "srcimg": "https://lii-rose.github.io/con-amor-de-paquita/IMG/paquitaCora.png",
+    "alt": "Una imagen de paquita soplando un matasuegras, la imagen está en forma de corazón",
+    "texto": "La web es de una repostería inventada llamada 'Con amor de Paquita', esta es principalmente para los encargos de la tienda y que los clientes puedan ojear un poco los tipos de dulces que se hacen. ",
+    "url": "https://lii-rose.github.io/con-amor-de-paquita/"
+},
+{
+    "id": 17,
+    "autores": "Berta Güell i Sònia Soldevila",
+    "titulo": "Tasty's",
+    "srcimg": "https://raw.githubusercontent.com/ssoldevila/tastys/refs/heads/main/IMATGES/LOGO/logo-cap%C3%A7alera.png",
+    "alt": "Logotip de Tasty's, El logotip de Tasty's està dissenyat per reflectir el caràcter culinari de la pàgina web de receptes. Les lletres són irregulars, recordant esquitxos d’oli en moviment, mentre que els ingredients al voltant, com tomàquet, alvocat i fulles, suggereixen una escena de cuina activa, com si estiguessin saltant en una paella, fent-se un saltejat de verduretes. El fons de quadres de pícnic aporta un toc casolà i emmarca el logotip, deixant clara la temàtica gastronòmica de Tasty's.",
+    "texto": "La pàgina web de Tasty's és un repositori de receptes de diferents temps i tradicions, consells, al mateix temps de 'portfoli', al final de la pàgina trobem el NetArt i un treball en grup de P5js.",
+    "url": "https://ssoldevila.github.io/tastys/"
+},
+{
+    "id": 18,
+    "autor": "Nil Vantolra, Francesc Bonnin",
+    "titulo": "Back2Street",
+    "srcimg": "https://nilvalton2.github.io/Back2Street/img/HEADER.jpg",
+    "alt": "",
+    "texto": "Página de ropa urbana centrada en la gente adolescente",
+    "url": "https://nilvalton2.github.io/Back2Street/"
+},
+{
+    "id": 19,
+    "autor": "Huiyu, Ye",
+    "titulo": "GuWeiNangTing",
+    "srcimg": "https://raw.githubusercontent.com/Atheneasis/web2/42da657b006695781326f6939782979a874f07e5/Image.png",
+    "alt": "Personatges importants de GuWeiNanTing",
+    "texto": "La web presenta un Manhua llamado GuWeiNangTing ",
+    "url": "https://atheneasis.github.io/web2/"
+}
+
+]
